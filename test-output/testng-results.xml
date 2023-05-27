@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="9" passed="9">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="78177" started-at="2023-05-27T23:23:57Z" finished-at="2023-05-27T23:25:15Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="78177" started-at="2023-05-27T23:23:57Z" finished-at="2023-05-27T23:25:15Z">
+      <class name="testPackage.BahrainTestScenarios">
+        <test-method status="PASS" signature="init()[pri:0, instance:testPackage.BahrainTestScenarios@146ba0ac]" name="init" is-config="true" duration-ms="26473" started-at="2023-05-28T01:23:57Z" finished-at="2023-05-28T01:24:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="BahrainCheckPackageCurrencyScenario()[pri:1, instance:testPackage.BahrainTestScenarios@146ba0ac]" name="BahrainCheckPackageCurrencyScenario" duration-ms="538" started-at="2023-05-28T01:24:23Z" finished-at="2023-05-28T01:24:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BahrainCheckPackageCurrencyScenario -->
+        <test-method status="PASS" signature="BahrainCheckPackageNameScenario()[pri:1, instance:testPackage.BahrainTestScenarios@146ba0ac]" name="BahrainCheckPackageNameScenario" duration-ms="466" started-at="2023-05-28T01:24:24Z" finished-at="2023-05-28T01:24:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BahrainCheckPackageNameScenario -->
+        <test-method status="PASS" signature="BahrainCheckPackagePriceScenario()[pri:1, instance:testPackage.BahrainTestScenarios@146ba0ac]" name="BahrainCheckPackagePriceScenario" duration-ms="352" started-at="2023-05-28T01:24:24Z" finished-at="2023-05-28T01:24:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BahrainCheckPackagePriceScenario -->
+        <test-method status="PASS" signature="tearDownSuite()[pri:0, instance:testPackage.BahrainTestScenarios@146ba0ac]" name="tearDownSuite" is-config="true" duration-ms="8568" started-at="2023-05-28T01:25:15Z" finished-at="2023-05-28T01:25:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownSuite -->
+        <test-method status="PASS" signature="tearDownSuite()[pri:0, instance:testPackage.KuwaitTestScenarios@4dfa3a9d]" name="tearDownSuite" is-config="true" duration-ms="6466" started-at="2023-05-28T01:25:24Z" finished-at="2023-05-28T01:25:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownSuite -->
+        <test-method status="PASS" signature="tearDownSuite()[pri:0, instance:testPackage.SaudiTestScenarios@6eebc39e]" name="tearDownSuite" is-config="true" duration-ms="5080" started-at="2023-05-28T01:25:30Z" finished-at="2023-05-28T01:25:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownSuite -->
+      </class> <!-- testPackage.BahrainTestScenarios -->
+      <class name="testPackage.KuwaitTestScenarios">
+        <test-method status="PASS" signature="init()[pri:0, instance:testPackage.KuwaitTestScenarios@4dfa3a9d]" name="init" is-config="true" duration-ms="20157" started-at="2023-05-28T01:24:25Z" finished-at="2023-05-28T01:24:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="KuwaitCheckPackageCurrencyScenario()[pri:1, instance:testPackage.KuwaitTestScenarios@4dfa3a9d]" name="KuwaitCheckPackageCurrencyScenario" duration-ms="1320" started-at="2023-05-28T01:24:45Z" finished-at="2023-05-28T01:24:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- KuwaitCheckPackageCurrencyScenario -->
+        <test-method status="PASS" signature="KuwaitCheckPackageNameScenario()[pri:1, instance:testPackage.KuwaitTestScenarios@4dfa3a9d]" name="KuwaitCheckPackageNameScenario" duration-ms="899" started-at="2023-05-28T01:24:46Z" finished-at="2023-05-28T01:24:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- KuwaitCheckPackageNameScenario -->
+        <test-method status="PASS" signature="KuwaitCheckPackagePriceScenario()[pri:1, instance:testPackage.KuwaitTestScenarios@4dfa3a9d]" name="KuwaitCheckPackagePriceScenario" duration-ms="2155" started-at="2023-05-28T01:24:47Z" finished-at="2023-05-28T01:24:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- KuwaitCheckPackagePriceScenario -->
+      </class> <!-- testPackage.KuwaitTestScenarios -->
+      <class name="testPackage.SaudiTestScenarios">
+        <test-method status="PASS" signature="init()[pri:0, instance:testPackage.SaudiTestScenarios@6eebc39e]" name="init" is-config="true" duration-ms="24180" started-at="2023-05-28T01:24:49Z" finished-at="2023-05-28T01:25:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="SaudiCheckPackageCurrencyScenario()[pri:1, instance:testPackage.SaudiTestScenarios@6eebc39e]" name="SaudiCheckPackageCurrencyScenario" duration-ms="422" started-at="2023-05-28T01:25:13Z" finished-at="2023-05-28T01:25:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SaudiCheckPackageCurrencyScenario -->
+        <test-method status="PASS" signature="SaudiCheckPackageNameScenario()[pri:1, instance:testPackage.SaudiTestScenarios@6eebc39e]" name="SaudiCheckPackageNameScenario" duration-ms="581" started-at="2023-05-28T01:25:14Z" finished-at="2023-05-28T01:25:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SaudiCheckPackageNameScenario -->
+        <test-method status="PASS" signature="SaudiCheckPackagePriceScenario()[pri:1, instance:testPackage.SaudiTestScenarios@6eebc39e]" name="SaudiCheckPackagePriceScenario" duration-ms="424" started-at="2023-05-28T01:25:14Z" finished-at="2023-05-28T01:25:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SaudiCheckPackagePriceScenario -->
+      </class> <!-- testPackage.SaudiTestScenarios -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
